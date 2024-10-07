@@ -1,0 +1,1 @@
+Tenha em mente que os esboços em tldr foram feito para a concepção inicial do projeto, e não como forma esquematizada para a criação do projeto.
