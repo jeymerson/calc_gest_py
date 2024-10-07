@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+gest_init.egg-info/PKG-INFO
+gest_init.egg-info/SOURCES.txt
+gest_init.egg-info/dependency_links.txt
+gest_init.egg-info/top_level.txt
+gestacional_age/__init__.py
